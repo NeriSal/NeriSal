@@ -1,29 +1,11 @@
 <div id="header" align="center">
   <img src="https://github.com/NeriSal/NeriSal/blob/main/Misc/Good%20Luck.gif?raw=true" width="200"/>
-  <h2>Hiya! 🙌</h2>
+  <h2>Hiya! I'm Neri 📡</h2>
 </div>
 
 ## 🧢 About me:
-```json
-{
-  "name": "Neri",
-  "located_in": "Tuscany, Italy",
-  "currently_studying": "Bachelor's in Computer Engineering",
-  "fields_of_interests": [
-    "Online Privacy",
-    "Cybersecurity",
-    "Programming"
-  ],
-  "hobbies": [
-    "Travelling",
-    "Gym",
-    "TTRPGs",
-    "Music",
-    "Reading"
-  ]
-}
-
-```
+🧗🏻‍♂ I'm a Computer Engineering student from Italy</br>
+🔒 My interests include Online Privacy and Cybersecurity
 
 <div id="header" align="center">
   <img src="https://github.com/NeriSal/NeriSal/blob/main/Misc/Office.gif?raw=true" width="200"/>
