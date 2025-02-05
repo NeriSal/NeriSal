@@ -4,7 +4,7 @@
 </div>
 
 ## 🧢 About me:
-🧗🏻‍♂ I'm a Computer Engineering student from Italy</br>
+🧗 I'm a Computer Engineering student from Italy</br>
 🔒 My interests include Online Privacy and Cybersecurity
 
 <div id="header" align="center">
