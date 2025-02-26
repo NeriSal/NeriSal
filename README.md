@@ -6,6 +6,7 @@
 ## 🧢 About me:
 🧗 I'm a Computer Engineering student from Italy</br>
 🔒 My interests include Online Privacy and Cybersecurity
+🇯🇵 Currently learning 日本語
 
 <div id="header" align="center">
   <img src="https://github.com/NeriSal/NeriSal/blob/main/Misc/Office.gif?raw=true" width="200"/>
