@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/NeriSal/NeriSal/blob/main/Misc/Good%20Luck.gif?raw=true" width="200"/>
-  <h2>Hiya! I'm Neri 📡</h2>
+  <h2>こんいちは! I'm Neri 📡</h2>
 </div>
 
 ## 🧢 About me:
